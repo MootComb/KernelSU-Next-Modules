@@ -5,5 +5,54 @@
     "author": "MootComb",
     "repoUrl": "https://github.com/MootComb/YouTube-ReVanced-Extended",
     "license": "GPL-3.0"
+  },
+  {
+    "name": "Re-Malwack",
+    "description": "A fully-fledged adblock root/no-root suite with WebUI, hosts management, profiles and wildcard whitelisting",
+    "author": "ZG089",
+    "repoUrl": "https://github.com/ZG089/Re-Malwack",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "BRENE - SUSFS-FOR-KERNELSU",
+    "description": "KernelSU module with SuSFS support: installs ksu_susfs helper, hides traces of root, custom kernels, Zygisk/Font modules and spoofs system props",
+    "author": "rrr333nnn333, KOWX712",
+    "repoUrl": "https://github.com/rrr333nnn333/BRENE",
+    "license": "AGPL-3.0"
+  },
+  {
+    "name": "BreZygisk",
+    "description": "A ReZygisk Fork - Transparent implementation of Zygisk with unmount support",
+    "author": "rrr333nnn333 & The PerformanC Organization",
+    "repoUrl": "https://github.com/rrr333nnn333/BreZygisk",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "Frosty",
+    "description": "Advanced Magisk/KernelSU/APatch module to enhance battery saving: GMS freezing, Doze, screen-off optimization, kernel tweaks and RAM optimizer",
+    "author": "Drsexo",
+    "repoUrl": "https://github.com/Drsexo/Frosty",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "HMA-OSS",
+    "description": "A Zygisk module to hide your app list, settings, package installers and more",
+    "author": "frknkrc44",
+    "repoUrl": "https://github.com/frknkrc44/HMA-OSS",
+    "license": "AGPL-3.0"
+  },
+  {
+    "name": "Play Integrity Fix [INJECT]",
+    "description": "Universal modular fix for Play Integrity verdicts on devices running Android 8-16",
+    "author": "KOWX712",
+    "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "Vector",
+    "description": "Modern Xposed Framework: Zygisk module providing an ART hooking framework with API consistency with the original Xposed, supports Android 8.1 ~ 17 Beta",
+    "author": "JingMatrix",
+    "repoUrl": "https://github.com/JingMatrix/Vector",
+    "license": "GPL-3.0"
   }
 ]
