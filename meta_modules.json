@@ -1,0 +1,19 @@
+[
+  {
+    "id": "magic_mount_rs",
+    "name": "Meta Magic Mount RS",
+    "description": "An implementation of a metamodule using Magic Mount (Rust)",
+    "author": "7a72, Tools-cx-app, YuzakiKokuban",
+    "repoUrl": "https://github.com/Tools-cx-app/meta-magic_mount-rs",
+    "license": "GPL-3.0",
+    "visibility": 1
+  },
+  {
+    "id": "nomount",
+    "name": "NoMount",
+    "description": "A metamodule that replaces OverlayFS/MagicMount with VFS path redirection.",
+    "author": "maxsteeel",
+    "repoUrl": "https://github.com/maxsteeel/nomount",
+    "license": "GPL-3.0"  
+  }
+]
